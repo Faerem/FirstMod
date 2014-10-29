@@ -1,0 +1,4 @@
+FirstMod
+========
+
+First Minecraft mod
